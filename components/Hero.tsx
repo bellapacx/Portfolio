@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element, react/no-unescaped-entities, react-hooks/exhaustive-deps */
 import React from 'react'
 import { Spotlight } from './ui/Spotlight'
 import { TextGenerateEffect } from './ui/TextGenerateEffect'
