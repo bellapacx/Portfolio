@@ -193,7 +193,6 @@ export const navItems = [
   export const socialMedia = [
     {
       id: 1,
-<<<<<<< HEAD
       img: "/git.svg",
       link: "https://github.com/bellapacx",
     },
