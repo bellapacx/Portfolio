@@ -1,7 +1,7 @@
 export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
-    { name: "Testimonials", link: "#testimonials" },
+   // { name: "Testimonials", link: "#testimonials" },
     { name: "Contact", link: "#contact" },
   ];
   
@@ -194,13 +194,27 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link: "https://github.com/bellapacx",
     },
     {
       id: 2,
       img: "/twit.svg",
+      link:""
     },
     {
       id: 3,
       img: "/link.svg",
+      link:""
     },
+    {
+      id: 4,
+      img: "what.svg",
+      link:""
+    },
+    {
+      id: 5,
+      img: "tel.svg",
+      link:""
+    }
+  
   ];
