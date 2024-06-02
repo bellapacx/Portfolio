@@ -219,16 +219,5 @@ export const navItems = [
     }
   
   ];
-=======
-      img: "git.svg",
-    },
-    {
-      id: 2,
-      img: "twit.svg",
-    },
-    {
-      id: 3,
-      img: "link.svg",
-    },
-  ];
->>>>>>> 2291f8532ba1a547eaa5a2e1356f73fa2b587479
+
+
