@@ -214,7 +214,7 @@
     {
       id: 5,
       img: "tel.svg",
-      link: "t.me/Bellapacz",
+      link: "https://t.me/Bellapacz",
     },
   
   ];
