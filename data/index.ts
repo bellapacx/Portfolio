@@ -214,7 +214,7 @@ export const navItems = [
     {
       id: 5,
       img: "tel.svg",
-      link:""
+      link:"t.me/Bellapacz",
     }
   
   ];
