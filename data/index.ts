@@ -209,7 +209,7 @@
     {
       id: 4,
       img: "what.svg",
-      link:""
+      link:"https://wa.link/gx3muh"
     },
     {
       id: 5,
