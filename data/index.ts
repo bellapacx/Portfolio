@@ -1,4 +1,4 @@
-7export const navItems = [
+u7export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
    // { name: "Testimonials", link: "#testimonials" },
@@ -214,7 +214,7 @@
     {
       id: 5,
       img: "tel.svg",
-      link:"https://t.me/Bellapacz",
+      link:"t.me/Bellapacz",
     }
   
   ];
