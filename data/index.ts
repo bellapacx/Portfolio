@@ -209,13 +209,13 @@
     {
       id: 4,
       img: "what.svg",
-      link:"https://wa.link/gx3muh"
+      link: "https://wa.link/gx3muh"
     },
     {
       id: 5,
       img: "tel.svg",
-      link:"t.me/Bellapacz",
-    }
+      link: "t.me/Bellapacz",
+    },
   
   ];
 
