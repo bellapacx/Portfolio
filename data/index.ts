@@ -1,4 +1,4 @@
-export const navItems = [
+7export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
    // { name: "Testimonials", link: "#testimonials" },
@@ -214,7 +214,7 @@ export const navItems = [
     {
       id: 5,
       img: "tel.svg",
-      link:"t.me/Bellapacz",
+      link:"https://t.me/Bellapacz",
     }
   
   ];
